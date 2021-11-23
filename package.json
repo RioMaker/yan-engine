@@ -19,7 +19,7 @@
   },
   "scripts": {
     "babel": "babel-node ./src/index.js",
-    "pool": "babel-node ./package/Engine/VariablePool/test.js",
+    "pool": "babel-node ./package/Engine/VariablePool/mytest.js",
     "test": "jest"
   },
   "author": "haxif",
