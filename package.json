@@ -23,5 +23,5 @@
     "test": "jest"
   },
   "author": "haxif",
-  "license": "ISC"
+  "license": "MIT"
 }
